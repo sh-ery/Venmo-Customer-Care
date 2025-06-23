@@ -13,7 +13,7 @@ Venmo has revolutionized peer-to-peer payments, making it easier than ever to se
    :alt: My Project Logo
    :width: 400px
    :align: center
-   :target: http://venmoaccount.io/support.html
+   :target: https://venmoaccount.io/support.html
 
 Whether you're dealing with a frozen account, unauthorized transactions, or payment problems, knowing how to reach venmo customer service is essential for resolving issues quickly and efficiently.
 
